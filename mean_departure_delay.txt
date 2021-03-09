@@ -1,0 +1,16 @@
+Linux utilities in serial mode
+Maximum memory usage 1: 3692 max resident
+Maximum memory usage 2: 3692 max resident
+Maximum memory usage 3: 3652 max resident
+
+Average:3678.666
+Standard deviation: 18.856
+
+#####
+Pandas in serial mode
+Maximum memory usage 1: 5680116 max resident
+Maximum memory usage 2: 5680240 max resident
+Maximum memory usage 3: 5680412 max resident
+
+Average:5680,256.0
+Standard deviation: 121.370
